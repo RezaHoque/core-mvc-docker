@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repositories\\core-mvc-docker\\core-mvc-docker\\core-mvc-docker.csproj": {}
+    "C:\\my-repo\\core-mvc-docker\\core-mvc-docker.csproj": {}
   },
   "projects": {
-    "C:\\Repositories\\core-mvc-docker\\core-mvc-docker\\core-mvc-docker.csproj": {
+    "C:\\my-repo\\core-mvc-docker\\core-mvc-docker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repositories\\core-mvc-docker\\core-mvc-docker\\core-mvc-docker.csproj",
+        "projectUniqueName": "C:\\my-repo\\core-mvc-docker\\core-mvc-docker.csproj",
         "projectName": "core-mvc-docker",
-        "projectPath": "C:\\Repositories\\core-mvc-docker\\core-mvc-docker\\core-mvc-docker.csproj",
-        "packagesPath": "C:\\Users\\reza\\.nuget\\packages\\",
-        "outputPath": "C:\\Repositories\\core-mvc-docker\\core-mvc-docker\\obj\\",
+        "projectPath": "C:\\my-repo\\core-mvc-docker\\core-mvc-docker.csproj",
+        "packagesPath": "C:\\Users\\rho.it\\.nuget\\packages\\",
+        "outputPath": "C:\\my-repo\\core-mvc-docker\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\reza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rho.it\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.velux.com/nuget/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
